@@ -1,0 +1,9 @@
+SPX pricing data
+Time length: 1980 to 2021
+Candle width: 1 minute
+Timestamp: start of candle
+Header: Date, Time, Open, High, Low, Close, Vol
+
+Source: https://www.finam.ru/profile/mirovye-indeksy/sandp-500/export
+
+Data seems to be only available from 2001 to current. 
